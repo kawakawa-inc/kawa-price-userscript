@@ -12,4 +12,4 @@ This Userscript for Prosperous Universe adds a button to load KAWA prices into c
 
 ## Issues
 
-Please report issues in the forum or the #tool-development channel in the KAWA discord.
+Please report issues in the forum or the #tool-discussion channel in the KAWA discord.
